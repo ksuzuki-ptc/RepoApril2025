@@ -1,2 +1,3 @@
 Created "NewFile1.txt"
 Added a new line #1
+Added a new line #2
